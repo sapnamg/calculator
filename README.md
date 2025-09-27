@@ -19,7 +19,7 @@ A simple calculator built with HTML, CSS, and JS.
 - Evaluator loops through array searching for operators and executing them according to mathematical order of operations
 - The result is displayed on screen, font size adjusts automatically if needed to fit in the results window
 
-![Calculator Screenshot](screenshot.jog)
+![Calculator Screenshot](screenshot.jpg)
 
 ## Project Structure
 - `index.html`: main HTML file
