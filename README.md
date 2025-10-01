@@ -3,6 +3,8 @@
 ## Description
 A simple calculator built with HTML, CSS, and JS.
 
+Try it here: [Calculator](https://sapnamg.github.io/calculator/) (published from this repo on GitHub Pages)
+
 ## Features
 - Clickable buttons for numbers and operators
 - Prevents multiple decimals in a number
